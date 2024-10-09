@@ -1,1 +1,2 @@
 # MealOrdering
+MealOrdering is a full-stack web application built with ASP.NET Core and Blazor for managing meal orders. The project incorporates C# on the backend, leveraging modern practices like service-oriented architecture, and integrates JavaScript, HTML, and CSS for the frontend. Blazor's WebAssembly is likely used for building interactive web UIs, while ASP.NET provides a scalable and secure environment for API development. The combination of these technologies offers an efficient and user-friendly meal ordering system.
