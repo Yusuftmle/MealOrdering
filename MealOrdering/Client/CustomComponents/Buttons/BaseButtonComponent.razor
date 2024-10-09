@@ -1,0 +1,27 @@
+﻿
+
+@code {
+	[Parameter]
+	public string Caption { get; set; }
+	[Parameter]
+	public string Colour { get; set; }
+	[Parameter]
+	public string Icon { get; set; }
+	[Parameter]
+	public string ToolTipStr { get; set; }
+	[Parameter]
+	public bool IsSmall { get; set; }
+	[Parameter]
+	public bool IsOutline { get; set; }
+	[Parameter]
+	public bool IsBussy { get; set; }
+	[Parameter]
+	public string IsBussyCaptıon { get; set; }
+
+
+
+	[Parameter]
+	public EventCallback<MouseEventArgs> OnClick { get; set; }
+
+
+}

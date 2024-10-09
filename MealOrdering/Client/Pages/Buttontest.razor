@@ -1,0 +1,55 @@
+﻿@page "/ButonTest"
+<h3>@title </h3>
+<h3>ButtonTest</h3>
+<div class ="form-group">
+	<div class="conteiner">
+		<div class="btn-toolbar">
+
+			<CustomEditButtons OnClick="@ChangeTitle"/>
+
+            <CustomEditButtons Caption="Edit caption"OnClick="@showConfirmation" Colour="danger" Icon="pencil" IsSmall="false"/>
+			
+		</div>
+	</div>
+</div>
+ 
+
+
+
+@code {
+    [CascadingParameter]
+    IModalService Modal { get; set; }
+
+    [Inject]
+    ModalManager modalManager { get; set; }
+
+    private string title = "";
+
+    private async Task ChangeTitle()
+    {
+        // ShowMessageAsync asenkron bir metot olduğundan await ile çağırılmalı
+        await modalManager.ShowMessageAsync("Show Message Title", "Record deleted", 3000);
+    }
+
+    public async Task showConfirmation()
+    {
+        // Asenkron çağrıyı await ile yapmalısınız
+        var res = await modalManager.ConfirmationAsync("Confirmations", "Are you sure that it will be deleted?");
+
+
+        if (res) 
+        {
+
+            title = "The record will be deleted."; // Title değişkenini onay sonucuna göre ayarladık
+            await modalManager.ShowMessageAsync("Confirmed", "The record will be deleted.", 3000);
+            
+        }
+        else
+        {
+            title = "The operation was cancelled."; // Title değişkenini iptal sonucuna göre ayarladık
+            await modalManager.ShowMessageAsync("Cancelled", "The operation was cancelled.", 3000);
+        }
+    }
+
+	
+}

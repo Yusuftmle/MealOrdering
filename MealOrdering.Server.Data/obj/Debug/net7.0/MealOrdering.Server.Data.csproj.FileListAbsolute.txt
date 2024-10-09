@@ -1,0 +1,14 @@
+C:\Users\hucks\OneDrive\Masaüstü\MealOrdering\MealOrdering.Server.Data\bin\Debug\net7.0\MealOrdering.Server.Data.deps.json
+C:\Users\hucks\OneDrive\Masaüstü\MealOrdering\MealOrdering.Server.Data\bin\Debug\net7.0\MealOrdering.Server.Data.runtimeconfig.json
+C:\Users\hucks\OneDrive\Masaüstü\MealOrdering\MealOrdering.Server.Data\bin\Debug\net7.0\MealOrdering.Server.Data.dll
+C:\Users\hucks\OneDrive\Masaüstü\MealOrdering\MealOrdering.Server.Data\bin\Debug\net7.0\MealOrdering.Server.Data.pdb
+C:\Users\hucks\OneDrive\Masaüstü\MealOrdering\MealOrdering.Server.Data\obj\Debug\net7.0\MealOrdering.Server.Data.csproj.AssemblyReference.cache
+C:\Users\hucks\OneDrive\Masaüstü\MealOrdering\MealOrdering.Server.Data\obj\Debug\net7.0\MealOrdering.Server.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hucks\OneDrive\Masaüstü\MealOrdering\MealOrdering.Server.Data\obj\Debug\net7.0\MealOrdering.Server.Data.AssemblyInfoInputs.cache
+C:\Users\hucks\OneDrive\Masaüstü\MealOrdering\MealOrdering.Server.Data\obj\Debug\net7.0\MealOrdering.Server.Data.AssemblyInfo.cs
+C:\Users\hucks\OneDrive\Masaüstü\MealOrdering\MealOrdering.Server.Data\obj\Debug\net7.0\MealOrdering.Server.Data.csproj.CoreCompileInputs.cache
+C:\Users\hucks\OneDrive\Masaüstü\MealOrdering\MealOrdering.Server.Data\obj\Debug\net7.0\MealOrdering.Server.Data.dll
+C:\Users\hucks\OneDrive\Masaüstü\MealOrdering\MealOrdering.Server.Data\obj\Debug\net7.0\refint\MealOrdering.Server.Data.dll
+C:\Users\hucks\OneDrive\Masaüstü\MealOrdering\MealOrdering.Server.Data\obj\Debug\net7.0\MealOrdering.Server.Data.pdb
+C:\Users\hucks\OneDrive\Masaüstü\MealOrdering\MealOrdering.Server.Data\obj\Debug\net7.0\MealOrdering.Server.Data.genruntimeconfig.cache
+C:\Users\hucks\OneDrive\Masaüstü\MealOrdering\MealOrdering.Server.Data\obj\Debug\net7.0\ref\MealOrdering.Server.Data.dll

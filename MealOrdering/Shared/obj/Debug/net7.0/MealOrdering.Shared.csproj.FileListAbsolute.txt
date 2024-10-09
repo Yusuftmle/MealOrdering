@@ -1,0 +1,12 @@
+C:\Users\hucks\OneDrive\Masaüstü\MealOrdering\MealOrdering\Shared\bin\Debug\net7.0\MealOrdering.Shared.deps.json
+C:\Users\hucks\OneDrive\Masaüstü\MealOrdering\MealOrdering\Shared\bin\Debug\net7.0\MealOrdering.Shared.dll
+C:\Users\hucks\OneDrive\Masaüstü\MealOrdering\MealOrdering\Shared\bin\Debug\net7.0\MealOrdering.Shared.pdb
+C:\Users\hucks\OneDrive\Masaüstü\MealOrdering\MealOrdering\Shared\obj\Debug\net7.0\MealOrdering.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hucks\OneDrive\Masaüstü\MealOrdering\MealOrdering\Shared\obj\Debug\net7.0\MealOrdering.Shared.AssemblyInfoInputs.cache
+C:\Users\hucks\OneDrive\Masaüstü\MealOrdering\MealOrdering\Shared\obj\Debug\net7.0\MealOrdering.Shared.AssemblyInfo.cs
+C:\Users\hucks\OneDrive\Masaüstü\MealOrdering\MealOrdering\Shared\obj\Debug\net7.0\MealOrdering.Shared.csproj.CoreCompileInputs.cache
+C:\Users\hucks\OneDrive\Masaüstü\MealOrdering\MealOrdering\Shared\obj\Debug\net7.0\MealOrdering.Shared.dll
+C:\Users\hucks\OneDrive\Masaüstü\MealOrdering\MealOrdering\Shared\obj\Debug\net7.0\refint\MealOrdering.Shared.dll
+C:\Users\hucks\OneDrive\Masaüstü\MealOrdering\MealOrdering\Shared\obj\Debug\net7.0\MealOrdering.Shared.pdb
+C:\Users\hucks\OneDrive\Masaüstü\MealOrdering\MealOrdering\Shared\obj\Debug\net7.0\ref\MealOrdering.Shared.dll
+C:\Users\hucks\OneDrive\Masaüstü\MealOrdering\MealOrdering\Shared\obj\Debug\net7.0\MealOrdering.Shared.csproj.AssemblyReference.cache
